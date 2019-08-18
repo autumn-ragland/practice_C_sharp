@@ -1,0 +1,11 @@
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\bin\Debug\netcoreapp2.1\practice_C_sharp.deps.json
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\bin\Debug\netcoreapp2.1\practice_C_sharp.runtimeconfig.json
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\bin\Debug\netcoreapp2.1\practice_C_sharp.runtimeconfig.dev.json
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\bin\Debug\netcoreapp2.1\practice_C_sharp.dll
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\bin\Debug\netcoreapp2.1\practice_C_sharp.pdb
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\obj\Debug\netcoreapp2.1\practice_C_sharp.csprojAssemblyReference.cache
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\obj\Debug\netcoreapp2.1\practice_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\obj\Debug\netcoreapp2.1\practice_C_sharp.AssemblyInfoInputs.cache
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\obj\Debug\netcoreapp2.1\practice_C_sharp.AssemblyInfo.cs
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\obj\Debug\netcoreapp2.1\practice_C_sharp.dll
+C:\Users\Autumn Ragland\Desktop\projects\code_practice\practice_C_sharp\obj\Debug\netcoreapp2.1\practice_C_sharp.pdb
